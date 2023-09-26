@@ -1,4 +1,13 @@
-<h1>Presentación - Teófilo Mayorga</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación-Teófilo</title>
+</head>
+<body>
+    <h1>Presentación - Teófilo Mayorga</h1>
   <Br></Br>
   <p1>Hola soy Teo, estudiante del grado superior de Desarrollo de Aplicaciones Webs. A día de hoy estoy aquí para aprender a programar páginas webs, sobre todo especialzarme en su diseño.</p1>
   <p2>Tengo 20 años para 21. A lo largo de estos años, he estudiado bachillerato para despues seguir mi trayectoria en un grado superior. A día de hoy soy Técnico Superior en Marketing y Publicidad</p2>
@@ -42,3 +51,5 @@ mesa de trabajo. La mesa de trabajo será lo más importante.</il>
   <Br></Br>
 
 <p3>Gracias por leer y hacer por conocernos. Un saludo y buen día, ¡hasta el próximo viernes!</p3>
+</body>
+</html>
